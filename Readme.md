@@ -1,6 +1,6 @@
 # SEP532(2021-Spring) - Deep Learning Practice 
 
-## Week1 - Introduction to TensorFlow
+## Week1 - Neural Network Basic Using TensorFlow
 - Environment setup 
 - Introduction to TensorFlow
 - Tensors and operations based on eager execution 
@@ -10,7 +10,7 @@
 - Overfitting and how to fight it
 - Save and restore models
 
-## Week2 Convolutional Neural Networks
+<!-- ## Week2 - Convolutional Neural Networks
 - CNN layers
 - CNN architectures
 - Case studies (AlexNet, VGGNet, GoogLeNet, ResNet)
@@ -41,4 +41,4 @@
 - Neural machine translation with attention
 - Image captioning with visual attention
 - Variational Autoencoder
-- Deep Comvolutional Generative Adversarial Network
+- Deep Comvolutional Generative Adversarial Network -->
