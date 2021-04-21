@@ -1,14 +1,21 @@
 # SEP532(2021-Spring) - Deep Learning Practice 
 
-## Week1 - Neural Network Basic Using TensorFlow
-- Environment setup 
-- Introduction to TensorFlow
-- Tensors and operations based on eager execution 
-- Neural networks in TensorFlow 
-- Image classification 
-- Text classification 
-- Overfitting and how to fight it
-- Save and restore models
+# Practice1 - Introduction to Nueral Networks
+
+### 1. Neural Network Basic   
+
+### 2. Introduction to Google Colab  
+
+### 3. Intorduction to Tensorflow
+
+### 4. Feedforward Neural Network
+
+### 5. Overfitting And How To Fight It  
+
+### 6. Save And Load Models
+
+### 7. Customization
+
 
 <!-- ## Week2 - Convolutional Neural Networks
 - CNN layers
