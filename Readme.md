@@ -2,9 +2,9 @@
 
 # Practice1 - Introduction to Nueral Networks
 
-### 1. Neural Network Basic   
+### 1. Introduction to Google Colab  
 
-### 2. Introduction to Google Colab  
+### 2. Neural Network Basic   
 
 ### 3. Intorduction to Tensorflow
 
